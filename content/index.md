@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: The World of Althrea
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the home page.
+See the side bar to the left for individual pages.
