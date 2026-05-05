@@ -1,0 +1,1 @@
+Metal harvested from a draeth's corpse: metal bones.

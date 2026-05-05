@@ -1,0 +1,1 @@
+A small coastal village on the west coast of [[Vaestra Prime]], wedged between the Vaesa Foothills and the [[Faarlen Ocean]]. It serves as a resting point and trading outpost for travelers headed north or south on the main road which runs along the coast. It is the main setting of The Gleam Harvest. [[Chapter 0]]

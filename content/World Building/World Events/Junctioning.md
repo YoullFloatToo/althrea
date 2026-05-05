@@ -1,0 +1,1 @@
+The life altering event which first establishes contact between an [[Unmoored]] and one of the [[Gods]].

@@ -1,0 +1,3 @@
+People born with the ability to converse with the [[Gods]]. In exchange for this rare power, they are born with a deformity. Each Unmoored experiences a life defining event during which they discover their ability. This is called a [[Junctioning]].
+
+The world doesn’t know much about the Unmoored. Only few still believe in the [[Gods]], and fewer still believe in the existence of the Unmoored. Its not uncommon for an Unmoored to be born, live a lifetime, and pass without ever discovering their ability. 
