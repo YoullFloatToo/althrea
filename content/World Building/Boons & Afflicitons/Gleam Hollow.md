@@ -1,0 +1,1 @@
+A rare affliction caused by the partial draining of one's gleam. The condition manifests as a delusion of the mind, often triggering visions of another version of one's life.

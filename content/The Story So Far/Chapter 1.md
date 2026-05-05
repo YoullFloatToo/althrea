@@ -1,6 +1,3 @@
----
-word-goal: "3737"
----
 The sun slowly sank through the evening sky, and by the time Orin Dain stood up to climb down from the roof of the fisherman's shop, it had fallen low enough to rest upon the horizon, like a burning ember settling to the ground after a crack of smoldering wood.
  
 An old man once told him to watch the sun set here, at the edge of the village along the port, where the ships launched out into the bay and glided out onto Faarlen. The location provided an unbroken view of the horizon and the waters extending out as far as the eye could see. Orin, not yet standing tall enough to see over the stacked barrels of salted fish, had added the part of climbing onto the roof.

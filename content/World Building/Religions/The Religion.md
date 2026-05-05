@@ -1,0 +1,1 @@
+An unnamed religion common across Althrea in older generations. Not all are followers.

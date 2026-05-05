@@ -1,6 +1,3 @@
----
-word-goal: "2592"
----
 Plenty have discussed while plenty have cried, and plenty more screamed and argued in a mead burning rage or sober as a bird, with their family, their friends, or strangers alike, that what happened up in those hills resulting in that black spot of death was nothing but a case of disease, wildfire, or something far more sinister.
  
 Of course, regardless of what plenty have said, whether it were a truth, a falsehood, some combination of both, or a complete fabrication of their own minds, there was only one way about it, which they would soon come to know, and it started with an old man chasing after a pair of young children through the village pasters and out to the forest just beyond.

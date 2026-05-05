@@ -1,6 +1,3 @@
----
-word-goal: "3737"
----
 Cael stepped through the tavern doors and into the night’s chaos within. Of course, he expected to see plenty of folks in attendance tonight. Yet, he wasn’t prepared for the total overtake of the Inn’s tavern.
  
 The room was packed so full of people, he could scarcely make his way past the entrance. If not for the doors opening outward, he wouldn’t have been able to get in. He pushed his way through the mob of people, bumping shoulders and nearly tripping over fallen chairs hidden in the sea of bodies. The room was filled with a smokey haze that floated above the crowd, lightly stinging his eyes. He could see at the far end of the room a fire roaring in its place below the chimney, little plumes of smoke streamed and swirled up through the air from the pipes jutting out of the crowd's mouths. Their voices melted together, creating a crackling buzz of noise almost too sharp to bear. Still, Cael could make out individual voices above the rest. At the other end of the room, a man’s laughter cut through the noise. Just to his side, a woman sighed irritably, clearly engaged in a hushed conversation of gossip with the other women gathered around her. And over it all, a stern woman’s voice shouted from behind the bar, barking orders to the tavern servants.

@@ -1,6 +1,3 @@
----
-word-goal: "3737"
----
 >**Someone gets a note warning them not to trust another? Its cryptic.**
  
 Cael walked somewhere near the middle of the procession, clutching the leather satchel at his hip. It was midmorning, and the winding column of travelers had stretched thin along the road. Like the night before, he felt there were far too many men in one place for his liking, although the valley road was much preferable to the cramped confines of the tavern. He felt the competition brewing all around him. Too many ambitions aimed at the same target.
