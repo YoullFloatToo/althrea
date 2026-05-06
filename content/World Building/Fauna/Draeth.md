@@ -1,15 +1,5 @@
-> [! ]
-> # Draeth
-> ![[Draeth.png|cover hsmall]]
-> Original sketches of earliest documented encounter. Author unknown.
->  [[Draeth.png|Enlarge]]
->  
-> ###### Beast Information
-> | Type | Stat |
-> | ---- | ---- |
-> | Temperament | Territorial |
-> | Continent | All [[Continents]] |
-> 
+![[Draeth.png|cover hsmall]]  
+>Original sketches of earliest documented encounter. Author unknown.
 
 Rare beasts from beyond [[The Shade]]  whose draw of breath can tear the [[Gleam]] out of any living being. They have bones made of metal, which can be seen in their teeth. And black shadowy skin, whisps of black smoke trail off of them.
 

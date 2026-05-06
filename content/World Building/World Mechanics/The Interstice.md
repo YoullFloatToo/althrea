@@ -1,15 +1,3 @@
-> [!infobox]
-> # The Interstice
-> ![[Limbo.png|cover hsmall]]
->  [[Limbo.png|Enlarge]]
-> ###### World Information
-> | Type | Stat |
-> | ---- | ---- |
-> | Unknown | Unknown |
-> | Unknown | Unknown |
-> 
-
-Description
----
+![[Limbo.png|cover hsmall]]
 An infinite blackness. Nothing.
 
