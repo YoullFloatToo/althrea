@@ -1,3 +1,19 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.page-title {
+  text-indent: -9999px;
+  overflow: hidden;
+  display: block;
+
+  background-image: url("/static/logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+
+  /* Optimized for your 1.6:1 aspect ratio */
+  width: 160px;   /* Width of the logo area */
+  height: 100px;  /* Calculated height to prevent clipping */
+  
+  margin-bottom: 1rem; /* Adds space between logo and search/links */
+}
+
